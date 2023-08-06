@@ -1,0 +1,3 @@
+https://sapcodes.com/2015/11/20/oo-exception-message-class-with-exception-class/
+https://sapported.com/tutorials/technical/abap/how-to-create-first-global-class-in-transaction-se24-part-i/
+http://sapported.com/tutorials/technical/abap/how-to-create-first-global-class-in-transaction-se24-part-ii/
